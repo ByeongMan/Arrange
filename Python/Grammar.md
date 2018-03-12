@@ -18,18 +18,6 @@ Python 3.6
 
 #### - Keywords
 
-<style>
-th:empty {
-  font-size:0px;
-  margin:0;
-  padding:0;
-  border:0;
-}
-td{
-  background:#fff;
-  color:#000;
-}
-</style>
 
 ||||||
 |-|-|-|-|-|
